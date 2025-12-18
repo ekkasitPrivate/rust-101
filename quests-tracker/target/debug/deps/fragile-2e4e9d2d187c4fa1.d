@@ -1,0 +1,11 @@
+/Users/dtd-m007/Desktop/rust-101/quests-tracker/target/debug/deps/fragile-2e4e9d2d187c4fa1.d: /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/lib.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/errors.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/fragile.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/registry.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/semisticky.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/sticky.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/thread_id.rs
+
+/Users/dtd-m007/Desktop/rust-101/quests-tracker/target/debug/deps/libfragile-2e4e9d2d187c4fa1.rmeta: /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/lib.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/errors.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/fragile.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/registry.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/semisticky.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/sticky.rs /Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/thread_id.rs
+
+/Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/lib.rs:
+/Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/errors.rs:
+/Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/fragile.rs:
+/Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/registry.rs:
+/Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/semisticky.rs:
+/Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/sticky.rs:
+/Users/dtd-m007/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fragile-2.0.1/src/thread_id.rs:
